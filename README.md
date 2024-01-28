@@ -19,8 +19,9 @@ The program will follow a mobile-first strategy for collecting outcomes informat
   - future proof the code base to the extent possible.
 - A Test-Driven Development model will be followed, with the goal of provably correct code, and 100% test coverage
 
-### Security:
-- Since this program will be handling Protected Health Information under the HIPPA definition, verifiable security and protected confidentiallity of all data collected will be a ground rule.
+### Data Security and Quality
+- Since it anticipated that this program will be handling Protected Health Information under the HIPPA definition, verifiable security and protected confidentiallity of all data collected will be a ground rule.
+- It is expected that this program will live or die based upon the  quality of the data collected, hence best-of-class data quality standards and certifications will be sought.
 
 
 #### development notes
