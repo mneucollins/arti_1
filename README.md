@@ -2,10 +2,11 @@
 Actionable Real Time Intelligence-- Medical Outcomes System
 
 ## Purpose:
-With the great majority of my 40-some years of professional experience having been devoted to developing software systems to collect and manage Patient Medical Outcomes data, I have decided to try to distill this experience into a program that leverages cutting edge contemporary software tools to generate real-time actionable information from Patient Self-Reported Outcomes Measures.
+With the great majority of my 40-some years of professional experience having been devoted to developing software systems to collect and manage Patient Medical Outcomes data, I have decided to try to distill this experience into a program that leverages cutting edge contemporary software tools to generate real-time actionable information from Patient Self-Reported Outcomes Measures (PROMS).
+The program will follow a mobile-first strategy for collecting outcomes information, with an eye toward leveraging future developments in wearable technology.
 
 ### Noted:
-- This is a ground-up development effort, not a reworking of an existing system.
+- This is a ground-up development effort, not a reworking of any existing system.
 - It will leverage a state-of-the-art stable infrastructure including:
   - Python
   - Django
@@ -13,8 +14,10 @@ With the great majority of my 40-some years of professional experience having be
   - NGINX
   - R (Posit)
   - Plumber API
-- And utilize software tools, patterns and practices that will facilitate clear and rapid understanding of the code base by external sources
-- A Test-Driven Development model will be followed, with the goal of 100% test coverage
+- And utilize software tools, patterns and practices that will:
+  - facilitate clear and rapid understanding of the code base by external resources
+  - future proof the code base to the extent possible.
+- A Test-Driven Development model will be followed, with the goal of provably correct code, and 100% test coverage
 
 ### Security:
 - Since this program will be handling Protected Health Information under the HIPPA definition, verifiable security and protected confidentiallity of all data collected will be a ground rule.
