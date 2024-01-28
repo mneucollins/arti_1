@@ -21,7 +21,7 @@ The program will follow a mobile-first strategy for collecting outcomes informat
 
 ### Data Security and Quality
 - Since it anticipated that this program will be handling Protected Health Information under the HIPPA definition, verifiable security and protected confidentiallity of all data collected will be a ground rule.
-- It is expected that this program will live or die based upon the  quality of the data collected, hence best-of-class data quality standards and certifications will be sought.
+- It is expected that this program will live or die based upon the  quality of the data collected, hence best-of-class data quality standards will be followed and data quality certifications will be sought.
 
 
 #### development notes
