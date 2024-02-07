@@ -6,8 +6,8 @@ With the great majority of my 40-some years of professional experience having be
 The program will follow a mobile-first strategy for collecting outcomes information, with an eye toward leveraging future developments in wearable technology.
 
 ### Noted:
-- While this leverages my long experience in developing outcomes collection systems, this is a ground-up development effort, not a reworking of any existing system.
-- It will leverage a state-of-the-art stable infrastructure including:
+- While this flows naturally from my long experience in developing outcomes collection systems, this is a ground-up development effort, not a reworking of any existing system.
+- It will utilize state-of-the-art stable infrastructure including:
   - Python
   - Django
   - PostgreSQL
