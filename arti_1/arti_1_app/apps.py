@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class PollzConfig(AppConfig):
+class Arti1AppConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
-    name = "pollz"
+    name = "arti_1_app"

@@ -23,6 +23,16 @@ The program will follow a mobile-first strategy for collecting outcomes informat
 - Since it anticipated that this program will be handling Protected Health Information under the HIPPA definition, verifiable security and protected confidentiallity of all data collected will be a ground rule.
 - It is expected that this program will live or die based upon the  quality of the data collected, hence best-of-class data quality standards will be followed and data quality certifications will be sought.
 
+### conda virtual environment
+This utilizes the "arti_1" conda virtual environment.
+If needed, the command to activate this is:
+```conda activate art_1```
+current conda environment can be found in the environment.yml file
+
+### dev server
+to start django locally using the built-in server change to the arti subdirectory and run
+```python manage.py runserver```
+
 
 #### development notes
 Notes on NGINX installed using brew
